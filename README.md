@@ -31,8 +31,6 @@ Motivated, passionate, and detail-oriented Computer Science and Engineering stud
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ebrahimAlaaeldin"><img src="https://github-readme-stats.vercel.app/api?username=ebrahimAlaaeldin&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="ebrahimAlaaeldin's GitHub stats" /></a>
-
-<a href="http://www.github.com/ebrahimAlaaeldin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimAlaaeldin&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/ebrahimAlaaeldin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimAlaaeldin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![ebrahimAlaaeldin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebrahimAlaaeldin&theme=vision-friendly-dark&hide_border=true)
+![ebrahimAlaaeldin's Stats](https://github-readme-stats.vercel.app/api?username=ebrahimAlaaeldin&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+![ebrahimAlaaeldin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimAlaaeldin&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
